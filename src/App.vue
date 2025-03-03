@@ -40,7 +40,7 @@
     <!-- showing results -->
     <div v-if="results" class="mt-6 p-4 bg-white rounded-lg shadow-lg">
       <h2 class="text-xl font-semibold mb-4 text-blue-600">Results</h2>
-      <div class="overflow-x-auto">
+      <div class="overflow-x-auto max-h-96 overflow-y-auto">
         <table class="min-w-full bg-white border border-gray-200">
           <thead>
             <tr class="bg-blue-50">
