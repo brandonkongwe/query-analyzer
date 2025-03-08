@@ -22,13 +22,7 @@ This application allows users to input SQL queries, execute them against a backe
 
 1. Node.js: Install [Node.js](https://nodejs.org/en)
 
-2. Install Vue:
-
-   ```bash
-    npm install -g @vue/cli
-   ```
-
-3. Backend API: Ensure the [API](https://github.com/brandonkongwe/QueryAnalyzer) is running and accessible.
+2. Backend API: Ensure the [API](https://github.com/brandonkongwe/QueryAnalyzer) is running and accessible.
 
 ## Installation
 
